@@ -12,25 +12,6 @@
   grid-gap: 10px; 
 }
 
-.header {
-  grid-area: h;
-  background-color:blue;
-}
 
-.header img {
-  height: 50px;
-}
 
-.nav {
-  grid-area: n;
-  background-color:aqua ;
-}
 
-.profile {
-  grid-area: c;
-  background-color:aquamarine;
-}
-
-.profile img {
-  height: 200px;
-}
